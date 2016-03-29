@@ -1,0 +1,12 @@
+[17-Feb-2016 01:40:30 UTC] PHP Fatal error:  Call to undefined function add_settings_field() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 5
+[17-Feb-2016 01:40:32 UTC] PHP Fatal error:  Call to undefined function add_settings_field() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 5
+[17-Feb-2016 01:40:33 UTC] PHP Fatal error:  Call to undefined function add_settings_field() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 5
+[17-Feb-2016 01:40:39 UTC] PHP Fatal error:  Call to undefined function add_settings_field() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 5
+[17-Feb-2016 01:41:35 UTC] PHP Fatal error:  Call to undefined function register_setting() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 5
+[17-Feb-2016 01:41:41 UTC] PHP Fatal error:  Call to undefined function register_setting() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 5
+[17-Feb-2016 22:27:37 UTC] PHP Fatal error:  Call to undefined function add_settings_field() in /home/rianmartins/public_html/wp-content/themes/rianmartins/functions.php on line 6
+[27-Feb-2016 16:35:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3072 bytes) in /home/rianmartins/public_html/wp-includes/media.php on line 2743
+[27-Feb-2016 16:35:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3072 bytes) in /home/rianmartins/public_html/wp-includes/media.php on line 2743
+[27-Feb-2016 16:39:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 768 bytes) in /home/rianmartins/public_html/wp-includes/media.php on line 2743
+[29-Mar-2016 02:06:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3072 bytes) in /home/rianmartins/public_html/wp-includes/media.php on line 2743
+[29-Mar-2016 02:07:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3072 bytes) in /home/rianmartins/public_html/wp-includes/media.php on line 2743

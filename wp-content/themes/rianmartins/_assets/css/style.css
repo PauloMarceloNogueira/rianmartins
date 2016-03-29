@@ -1,0 +1,259 @@
+@import url('../bootstrap/bootstrap.css');
+@import url('main_style.css');
+@import url('options.css');
+
+.oi_top_line_holder {
+border-top:0 solid #f6f6f6;
+border-bottom:1px solid #f6f6f6;
+border-left:0 solid #f6f6f6;
+border-right:0 solid #f6f6f6;
+padding:10px 0;
+}
+
+.oi_top_line,ul.oi_topline_menu li {
+font-family:Lato;
+text-transform:none;
+line-height:28px;
+letter-spacing:0;
+font-weight:400;
+font-style:normal;
+color:#999;
+font-size:11px;
+}
+
+.oi_top_line_holder,.oi_soc_icons.oi_active_top_soc,.oi_topline_menu.oi_active_top_menu {
+background-color:#FCFCFC;
+}
+
+.oi_top_line a,.oi_top_line .oi_mail a {
+color:#999;
+}
+
+.oi_logo_holder {
+border-top:0 solid #f6f6f6;
+border-bottom:0 solid #f6f6f6;
+border-left:0 solid #f6f6f6;
+border-right:0 solid #f6f6f6;
+background-color:#f5f5f5;
+padding:40px 0;
+}
+
+ul.oi_header_menu_fixed > li > a {
+font-family:Roboto;
+text-transform:uppercase;
+line-height:18px;
+letter-spacing:1px;
+font-weight:400;
+font-style:normal;
+font-size:12px;
+}
+
+.oi_header_menu_fixed > li > a {
+color:#666;
+border-top:0 none #fff;
+border-bottom:0 none #fff;
+border-left:0 none #fff;
+border-right:0 none #fff;
+margin:0;
+padding:10px 15px;
+}
+
+.oi_header_menu_fixed > li > ul > li > a,.oi_header_menu_fixed >li:not(.megamenu) > ul > li> ul > li > a,.oi_header_menu_fixed > li.megamenu > ul > li > ul > li > a {
+color:#666;
+padding:3px 20px;
+}
+
+.oi_scrolled .oi_header_menu_fixed > li > a {
+color:#666;
+border-top:0 none #F7F9F9;
+border-bottom:0 none #F7F9F9;
+border-left:0 none #F7F9F9;
+border-right:0 none #F7F9F9;
+}
+
+.oi_tag_line {
+background-color:#FCFCFC;
+border-top:1px solid #f6f6f6;
+border-bottom:1px solid #f6f6f6;
+border-left:0 solid #f6f6f6;
+border-right:0 solid #f6f6f6;
+padding:20px 0;
+}
+
+h4.oi_tag_line_title {
+font-family:"Droid Serif";
+line-height:40px;
+font-weight:400;
+font-style:400;
+color:#222;
+font-size:20px;
+}
+
+.breadcrumbs,.woocommerce .oi_breadcrumbs .woocommerce-breadcrumb {
+font-family:Lato;
+line-height:18px;
+font-weight:400;
+font-style:400;
+color:#888;
+font-size:11px;
+}
+
+body {
+font-family:Roboto;
+line-height:24px;
+font-weight:300;
+font-style:normal;
+color:#555;
+font-size:15px;
+}
+
+.oi_footer_holder {
+border-top:0 solid #f9f9f9;
+border-bottom:0 solid #f9f9f9;
+border-left:0 solid #f9f9f9;
+border-right:0 solid #f9f9f9;
+background-color:#f5f5f5;
+padding:30px 0;
+}
+
+.oi_footer_holder .oi_footer_widget {
+font-family:Roboto;
+text-transform:none;
+line-height:20px;
+letter-spacing:1px;
+font-weight:300;
+font-style:normal;
+color:#333;
+font-size:15px;
+border-top:0 solid #f9f9f9;
+border-bottom:0 solid #f9f9f9;
+border-left:0 solid #f9f9f9;
+border-right:0 solid #f9f9f9;
+background-color:#fff;
+padding:20px;
+}
+
+.oi_footer_widget .io_footer_widget_title {
+border-top:0 solid #fff;
+border-bottom:0 solid #fff;
+border-left:0 solid #fff;
+border-right:0 solid #fff;
+font-family:Roboto;
+text-align:center;
+text-transform:uppercase;
+line-height:16px;
+letter-spacing:4px;
+font-weight:300;
+font-style:300;
+color:#333;
+font-size:11px;
+margin:0 0 15px;
+padding:0;
+}
+
+.oi_footer-ii_holder {
+border-top:0 solid #f9f9f9;
+border-bottom:0 solid #f9f9f9;
+border-left:0 solid #f9f9f9;
+border-right:0 solid #f9f9f9;
+background-color:#f5f5f5;
+padding:0 0 30px;
+}
+
+.oi_footer-ii,ul.oi_footer-ii_menu li {
+font-family:Roboto;
+text-transform:uppercase;
+line-height:12px;
+letter-spacing:2px;
+font-weight:300;
+font-style:normal;
+color:#333;
+font-size:11px;
+}
+
+.oi_footer-ii_holder .oi_footer-ii_widget {
+font-family:Roboto;
+text-align:center;
+text-transform:none;
+line-height:24px;
+letter-spacing:1px;
+font-weight:300;
+font-style:normal;
+color:#333;
+font-size:16px;
+border-top:0 solid #f9f9f9;
+border-bottom:0 solid #f9f9f9;
+border-left:0 solid #f9f9f9;
+border-right:0 solid #f9f9f9;
+background-color:#fff;
+padding:30px;
+}
+
+.oi_footer-ii_widget .io_footer-ii_widget_title {
+border-top:0 none #b99d61;
+border-bottom:0 none #b99d61;
+border-left:0 none #b99d61;
+border-right:0 none #b99d61;
+font-family:Roboto;
+text-align:center;
+text-transform:uppercase;
+line-height:36px;
+letter-spacing:4px;
+font-weight:300;
+font-style:300;
+color:#e8e8e8;
+font-size:36px;
+margin:0;
+padding:0 0 10px;
+}
+
+.oi_footer-ii_widget .io_footer-ii_widget_title span {
+border-top:0 solid #fff;
+border-bottom:0 solid #fff;
+border-left:0 solid #fff;
+border-right:0 solid #fff;
+margin:15px 0 30px;
+padding:0;
+}
+
+.oi_bottom_line_holder {
+font-family:Roboto;
+text-transform:none;
+line-height:20px;
+letter-spacing:1px;
+font-weight:400;
+font-style:normal;
+color:#333;
+font-size:13px;
+border-top:0 solid #f9f9f9;
+border-bottom:0 solid #f9f9f9;
+border-left:0 solid #f9f9f9;
+border-right:0 solid #f9f9f9;
+background-color:#f5f5f5;
+padding:10px 0;
+}
+
+.oi_bottom_line {
+padding-top:20px;
+padding-bottom:20px;
+}
+
+.oi_page_holder_custom,.oi_content_holder,.oi_scrolled {
+background-color:#f5f5f5;
+}
+
+.oi_top_line a:hover,.oi_top_line .oi_mail a:hover,.oi_top_line a:active,.oi_top_line .oi_mail a:active,.oi_header_menu_fixed > li > a:hover,.oi_scrolled .oi_header_menu_fixed > li > a:hover,.breadcrumbs a,.woocommerce .oi_breadcrumbs nav.woocommerce-breadcrumb a,.oi_footer a,.oi_footer ul li a,.oi_footer-ii a,.oi_footer-ii ul li a,.oi_bottom_line a,.oi_bottom_line ul li a {
+color:#000;
+}
+
+.oi_header_menu_fixed > li > a:active,.oi_header_menu_fixed > li > ul > li > a:hover,.oi_header_menu_fixed >li:not(.megamenu) > ul > li> ul > li > a:hover,.oi_header_menu_fixed > li.megamenu > ul > li > ul > li > a:hover,.oi_header_menu_fixed > li > ul > li > a:active,.oi_header_menu_fixed >li:not(.megamenu) > ul > li> ul > li > a:active,.oi_header_menu_fixed > li.megamenu > ul > li > ul > li > a:active,.oi_scrolled .oi_header_menu_fixed > li > a:active {
+color:#fff;
+}
+
+.breadcrumbs a:hover,.woocommerce .oi_breadcrumbs nav.woocommerce-breadcrumb a:hover,.breadcrumbs a:active,.woocommerce .oi_breadcrumbs nav.woocommerce-breadcrumb a:active {
+color:#1DC6DF;
+}
+
+.oi_footer a:hover,.oi_footer ul li a:hover,.oi_footer a:active,.oi_footer ul li a:active,.oi_footer-ii a,.oi_footer-ii ul li a:hover,.oi_footer-ii a,.oi_footer-ii ul li a:active,.oi_bottom_line a:hover,.oi_bottom_line ul li a:hover,.oi_bottom_line a:active,.oi_bottom_line ul li a:active {
+color:#b99d61;
+}

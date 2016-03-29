@@ -1,0 +1,24 @@
+[11-Feb-2016 00:59:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 14
+[11-Feb-2016 00:59:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 14
+[11-Feb-2016 02:40:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 41
+[11-Feb-2016 18:01:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[11-Feb-2016 19:19:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[11-Feb-2016 19:19:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[12-Feb-2016 11:37:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[12-Feb-2016 11:37:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[12-Feb-2016 11:37:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[12-Feb-2016 11:53:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 115
+[17-Feb-2016 00:46:39 UTC] PHP Fatal error:  Call to a member function have_posts() on a non-object in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 457
+[17-Feb-2016 00:52:18 UTC] PHP Fatal error:  Call to undefined function get_content() in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 388
+[17-Feb-2016 00:52:39 UTC] PHP Fatal error:  Call to undefined function get_content() in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 389
+[17-Feb-2016 02:13:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rianmartins/public_html/wp-content/themes/rianmartins/page-portfolio.php on line 50
+[20-Feb-2016 19:23:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 13
+[20-Feb-2016 19:23:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 13
+[20-Feb-2016 19:45:28 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 28
+[20-Feb-2016 19:46:14 UTC] PHP Fatal error:  Call to undefined method WP_Post::get_the_category() in /home/rianmartins/public_html/wp-content/themes/rianmartins/index.php on line 26
+[24-Feb-2016 12:54:18 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/rianmartins/public_html/wp-content/themes/rianmartins/header.php on line 49
+[24-Feb-2016 12:56:34 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/rianmartins/public_html/wp-content/themes/rianmartins/header.php on line 49
+[24-Feb-2016 12:56:54 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/rianmartins/public_html/wp-content/themes/rianmartins/header.php on line 49
+[24-Feb-2016 12:56:55 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/rianmartins/public_html/wp-content/themes/rianmartins/header.php on line 49
+[23-Mar-2016 23:39:38 UTC] PHP Fatal error:  Call to undefined function get_content() in /home/rianmartins/public_html/wp-content/themes/rianmartins/page-contato.php on line 189
+[23-Mar-2016 23:46:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rianmartins/public_html/wp-content/themes/rianmartins/page-contato.php on line 26
